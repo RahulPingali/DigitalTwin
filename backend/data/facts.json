@@ -1,0 +1,21 @@
+{
+    "full_name": "Rahul Pingali",
+    "name": "Pingu",
+    "current_role": "Software AI and Automation Part Time Engineer",
+    "location": "Shirley, Massachusetts",
+    "email": "rahul.pingali@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/rahul-pingali/",
+    "specialties": [
+      "Python development",
+      "AI tool development",
+      "Automation Testing"
+    ],
+    "years_experience": 2,
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "University of Massachusetts lowell",
+        "year": "2025"
+      }
+    ]
+  }
